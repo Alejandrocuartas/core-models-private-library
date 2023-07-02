@@ -1,8 +1,9 @@
 package creators
 
 import (
-	"core-models-private-library/models"
 	"database/sql"
+
+	"github.com/Alejandrocuartas/core-models-private-library/models"
 
 	"github.com/jinzhu/gorm/dialects/postgres"
 	"github.com/lib/pq"

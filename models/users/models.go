@@ -1,8 +1,9 @@
 package users
 
 import (
-	"core-models-private-library/models"
 	"database/sql"
+
+	"github.com/Alejandrocuartas/core-models-private-library/models"
 )
 
 type User struct {

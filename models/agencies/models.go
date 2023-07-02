@@ -3,7 +3,7 @@ package agencies
 import (
 	"database/sql"
 
-	"core-models-private-library/models"
+	"github.com/Alejandrocuartas/core-models-private-library/models"
 )
 
 type Agency struct {

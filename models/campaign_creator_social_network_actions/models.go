@@ -1,8 +1,9 @@
 package campaign_creator_social_network_actions
 
 import (
-	"core-models-private-library/models"
 	"database/sql"
+
+	"github.com/Alejandrocuartas/core-models-private-library/models"
 )
 
 const (

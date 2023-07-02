@@ -1,8 +1,9 @@
 package companies
 
 import (
-	"core-models-private-library/models"
 	"database/sql"
+
+	"github.com/Alejandrocuartas/core-models-private-library/models"
 )
 
 type Company struct {

@@ -1,15 +1,16 @@
 package migrations
 
 import (
-	"core-models-private-library/models/agencies"
-	"core-models-private-library/models/campaign_creator_social_network_actions"
-	"core-models-private-library/models/campaigns"
-	"core-models-private-library/models/companies"
-	"core-models-private-library/models/creator_social_networks"
-	"core-models-private-library/models/creators"
-	"core-models-private-library/models/user_agency_relations"
-	"core-models-private-library/models/users"
 	"log"
+
+	"github.com/Alejandrocuartas/core-models-private-library/models/agencies"
+	"github.com/Alejandrocuartas/core-models-private-library/models/campaign_creator_social_network_actions"
+	"github.com/Alejandrocuartas/core-models-private-library/models/campaigns"
+	"github.com/Alejandrocuartas/core-models-private-library/models/companies"
+	"github.com/Alejandrocuartas/core-models-private-library/models/creator_social_networks"
+	"github.com/Alejandrocuartas/core-models-private-library/models/creators"
+	"github.com/Alejandrocuartas/core-models-private-library/models/user_agency_relations"
+	"github.com/Alejandrocuartas/core-models-private-library/models/users"
 
 	"github.com/jinzhu/gorm"
 )

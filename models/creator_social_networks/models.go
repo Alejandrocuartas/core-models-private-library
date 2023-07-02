@@ -1,7 +1,7 @@
 package creator_social_networks
 
 import (
-	"core-models-private-library/models"
+	"github.com/Alejandrocuartas/core-models-private-library/models"
 )
 
 type CreatorSocialNetworkAccount struct {

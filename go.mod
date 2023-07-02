@@ -1,4 +1,4 @@
-module core-models-private-library
+module github.com/Alejandrocuartas/core-models-private-library
 
 go 1.19
 
