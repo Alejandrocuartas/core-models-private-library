@@ -2,7 +2,8 @@ package agencies
 
 import (
 	"database/sql"
-	"go-backend-challenge/core-models-private-library/models"
+
+	"core-models-private-library/models"
 )
 
 type Agency struct {

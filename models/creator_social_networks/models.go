@@ -1,7 +1,7 @@
 package creator_social_networks
 
 import (
-	"go-backend-challenge/core-models-private-library/models"
+	"core-models-private-library/models"
 )
 
 type CreatorSocialNetworkAccount struct {

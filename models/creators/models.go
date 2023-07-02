@@ -1,10 +1,11 @@
 package creators
 
 import (
+	"core-models-private-library/models"
 	"database/sql"
+
 	"github.com/jinzhu/gorm/dialects/postgres"
 	"github.com/lib/pq"
-	"go-backend-challenge/core-models-private-library/models"
 )
 
 const (
